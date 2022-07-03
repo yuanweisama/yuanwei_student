@@ -1,0 +1,2 @@
+{'numb': '1000', 'name': '张三', 'english': 55, 'python': 44, 'java': 88}
+{'numb': '1001', 'name': '李四', 'english': 64, 'python': 35, 'java': 78}
